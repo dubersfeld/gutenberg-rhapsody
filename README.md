@@ -27,10 +27,10 @@ frontend-server      | 8080         | frontend             | None
 The only dependency to ElasticSearch is this one:
 
 ```
-&lt;dependency>
-    &lt;groupId>org.elasticsearch.client&lt;/groupId>
-    &lt;artifactId>elasticsearch-rest-high-level-client&lt;/artifactId>
-&lt;/dependency>
+<dependency>
+    <groupId>org.elasticsearch.client</groupId>
+    <artifactId>elasticsearch-rest-high-level-client</artifactId>
+</dependency>
 ```
 
 A gateway is used to hide the main RESTful servers. Here is the list:
