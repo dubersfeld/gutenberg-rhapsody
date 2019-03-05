@@ -1,0 +1,10 @@
+#server:
+#  port: 8084
+  
+  
+  
+elasticsearch-host: "localhost"
+elasticsearch-port-one: 9200
+elasticsearch-port-two: 9201
+elasticsearch-scheme: "http"
+  
