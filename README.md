@@ -115,13 +115,9 @@ Here is a snapshot of the welcome page:
 
 # 4. Searching for a book
 
-Enter one or several keywords in the keywords field. Here is a snapshot of the books found for keywords `gorilla quantum pattern captain`. Note that gutenberg-books index is searched for matches in three distinct fields:
+Enter one or several keywords in the keywords field. Note that gutenberg-books index is searched for matches in three distinct fields: "title", "description", "tags"
 
-```
-"title"
-"description"
-"tags"
-```
+Here is a snapshot of the search results for keywords "gorilla quantum pattern captain":
 
 ![alt text](images/searchResults.png "SearchResults")
 
